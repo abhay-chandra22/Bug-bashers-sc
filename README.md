@@ -1,2 +1,2 @@
 # Bug-bashers-sc
-Project for team Bug Bashers
+Project for team Bug Bashers ACE
